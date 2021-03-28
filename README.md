@@ -1,8 +1,8 @@
-#Fancy Pixel Pro
+# Fancy Pixel Pro
 
 ![image](https://github.com/DEM0915/deux/raw/master/bin/data/Fancy.png)
 
-##Concepts
+## Concepts
 像素－图像元素，图像显示的基本单位。每一个像素是一个抽象的取样；而一个个取样点的集合则能构成一个完整的图像。
 
 Pixel is defined as element and basic unit of image . Each pixel is an
@@ -27,12 +27,15 @@ computers interpret "pixels" upon the Bit World,
 那么把像素动态视觉化，就是“梦幻像素”所表达的，它也是视觉化艺术的另一种可能。
 The artwork “FancyPixel”  tries to reflect the visualization of pixels’
 motions, which shows another possibility of visual art either.
-##Develop Tools
+
+## Develop Tools
+
 * Xcode version 7.2.1
 
 * openFrameworks 0.9.3
 
-##Platform
+## Platform
+
 * OS X El Capitan
 
 
